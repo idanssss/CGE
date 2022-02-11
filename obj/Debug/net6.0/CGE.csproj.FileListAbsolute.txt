@@ -1,0 +1,15 @@
+/Users/idansahar/Desktop/CGE/bin/Debug/net6.0/CGE
+/Users/idansahar/Desktop/CGE/bin/Debug/net6.0/CGE.deps.json
+/Users/idansahar/Desktop/CGE/bin/Debug/net6.0/CGE.runtimeconfig.json
+/Users/idansahar/Desktop/CGE/bin/Debug/net6.0/CGE.dll
+/Users/idansahar/Desktop/CGE/bin/Debug/net6.0/ref/CGE.dll
+/Users/idansahar/Desktop/CGE/bin/Debug/net6.0/CGE.pdb
+/Users/idansahar/Desktop/CGE/obj/Debug/net6.0/CGE.csproj.AssemblyReference.cache
+/Users/idansahar/Desktop/CGE/obj/Debug/net6.0/CGE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idansahar/Desktop/CGE/obj/Debug/net6.0/CGE.AssemblyInfoInputs.cache
+/Users/idansahar/Desktop/CGE/obj/Debug/net6.0/CGE.AssemblyInfo.cs
+/Users/idansahar/Desktop/CGE/obj/Debug/net6.0/CGE.csproj.CoreCompileInputs.cache
+/Users/idansahar/Desktop/CGE/obj/Debug/net6.0/CGE.dll
+/Users/idansahar/Desktop/CGE/obj/Debug/net6.0/ref/CGE.dll
+/Users/idansahar/Desktop/CGE/obj/Debug/net6.0/CGE.pdb
+/Users/idansahar/Desktop/CGE/obj/Debug/net6.0/CGE.genruntimeconfig.cache
